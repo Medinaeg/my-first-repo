@@ -1,28 +1,23 @@
-# This is a large heading
+#Egmidio Medina
 
-## This is a smaller heading
+###Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Los Angeles, in the state of California, in the United States of America.
 
-- This is
-- an unordered
-- list
+###Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *To kill a Mockingbird* by Harper Lee
+- *Invisible Man* by Ralph Ellison
+- *All Quiet on the Western Front* by Erich Maria Remarque
 
-```
-This is
-a block
-of code
-```
+###Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Today I had for lunch was:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. A burrito
+2. An egg and veggie sausage
+3. Diced mango
+
+
